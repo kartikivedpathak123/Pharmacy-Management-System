@@ -1,4 +1,3 @@
-
 # Pharmacy Management System
 
 ## Overview
