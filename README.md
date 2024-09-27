@@ -18,9 +18,3 @@ This is a Python-based Pharmacy Management System that helps manage pharmacy ope
 - **HTML**, **CSS**, **JavaScript** (for frontend, if applicable)
 - **Web Services** (if applicable)
 
-## Installation
-To get started with this project, follow the steps below:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/Pharmacy-Management-System.git
